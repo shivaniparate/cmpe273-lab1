@@ -1,0 +1,16 @@
+Output of http_call.py:
+
+shivani@shivani-Inspiron-13-5378:~/Desktop$ python3 http_call.py
+Sat, 01 Sep 2018 08:36:32 GMT
+Sat, 01 Sep 2018 08:36:33 GMT
+Sat, 01 Sep 2018 08:36:34 GMT
+
+Output of http_async_call.py:
+
+shivani@shivani-Inspiron-13-5378:~/Desktop$ python3 http_async_call.py
+C Sat, 01 Sep 2018 08:39:41 GMT
+B Sat, 01 Sep 2018 08:39:42 GMT
+A Sat, 01 Sep 2018 08:39:43 GMT
+B Sat, 01 Sep 2018 08:39:44 GMT
+A Sat, 01 Sep 2018 08:39:45 GMT
+A Sat, 01 Sep 2018 08:39:47 GMT
